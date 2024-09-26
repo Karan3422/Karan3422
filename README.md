@@ -1,5 +1,5 @@
 # 💫 About Me:
-🧑‍💻Currently working for Intern in Appsquardz pvt.Ltd. <br>👨‍💼I'm currently working on Mern Stack development.<br>🔭I'm looking for software engineer opportunity.<br>🌏I'm currently learning various technology in mern stack.<br>
+🧑‍💻Working Ex-Intern in Appsquardz pvt.Ltd. <br>👨‍💼I'm currently working on Mern Stack development.<br>🔭I'm looking for software engineer opportunity.<br>🌏I'm currently learning various technology in mern stack.<br>
 
 
 ## 🌐 Socials:
